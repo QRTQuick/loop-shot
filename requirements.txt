@@ -1,0 +1,6 @@
+speechrecognition
+pyttsx3
+openai  
+# optional, for smarter answers
+# Optional: PyAudio is commonly needed for microphone support on Windows.
+# Installing PyAudio on Windows often requires a binary wheel (see README_AUDIO.md)
